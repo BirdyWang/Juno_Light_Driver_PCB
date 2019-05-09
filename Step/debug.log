@@ -1,0 +1,269 @@
+[0507/185937:ERROR:command_buffer_proxy_impl.cc(199)] Failed to initialize command buffer service.
+[0507/185937:ERROR:webgraphicscontext3d_command_buffer_impl.cc(199)] CommandBufferProxy::Initialize failed.
+[0507/185937:ERROR:webgraphicscontext3d_command_buffer_impl.cc(218)] Failed to initialize command buffer.
+[0507/185937:ERROR:command_buffer_proxy_impl.cc(199)] Failed to initialize command buffer service.
+[0507/185937:ERROR:webgraphicscontext3d_command_buffer_impl.cc(199)] CommandBufferProxy::Initialize failed.
+[0507/185937:ERROR:webgraphicscontext3d_command_buffer_impl.cc(218)] Failed to initialize command buffer.
+[0507/185937:ERROR:command_buffer_proxy_impl.cc(199)] Failed to initialize command buffer service.
+[0507/185937:ERROR:webgraphicscontext3d_command_buffer_impl.cc(199)] CommandBufferProxy::Initialize failed.
+[0507/185937:ERROR:webgraphicscontext3d_command_buffer_impl.cc(218)] Failed to initialize command buffer.
+[0507/185937:ERROR:command_buffer_proxy_impl.cc(199)] Failed to initialize command buffer service.
+[0507/185937:ERROR:webgraphicscontext3d_command_buffer_impl.cc(199)] CommandBufferProxy::Initialize failed.
+[0507/185937:ERROR:webgraphicscontext3d_command_buffer_impl.cc(218)] Failed to initialize command buffer.
+[0507/185937:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185937:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185937:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185937:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185937:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185937:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185937:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185937:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185937:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185937:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185937:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185937:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185937:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185937:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185937:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185937:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185937:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185937:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185937:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185937:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185937:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185937:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185937:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185937:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185937:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185937:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185937:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185937:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185937:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185937:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185937:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185937:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185937:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185937:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185937:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185937:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185937:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185937:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185937:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185937:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185937:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185937:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185937:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185937:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185937:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185937:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185937:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185937:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185937:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185937:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185937:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185937:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185937:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185937:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185937:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185937:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185937:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185937:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185937:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185937:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185937:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185937:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185937:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185937:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185937:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185937:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185944:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185944:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185944:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185944:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185944:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185944:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185944:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185944:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185944:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185944:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185944:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185944:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185944:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185944:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185944:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185944:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185944:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185944:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185944:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185944:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185944:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185944:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185944:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185944:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185944:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185944:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185944:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185944:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185944:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185944:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185944:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185944:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185944:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185944:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185944:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185944:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(2849)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glTexParameteri: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185947:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185948:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185948:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185948:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185948:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185948:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185948:ERROR:gles2_cmd_decoder.cc(7851)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]RENDER WARNING: there is no texture bound to the unit 0
+[0507/185948:ERROR:gles2_cmd_decoder_autogen.h(136)] [.CommandBufferContext.DisplayCompositor-000000013D073F00]GL ERROR :GL_INVALID_ENUM : glBindTexture: target was GL_FALSE
+[0507/185948:ERROR:logger.cc(46)] Too many GL errors, not reporting any more for this context. use --disable-gl-error-limit to see all errors.
