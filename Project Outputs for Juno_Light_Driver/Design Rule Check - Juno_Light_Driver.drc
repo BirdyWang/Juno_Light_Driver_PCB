@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\Public\Documents\Altium\Projects\Juno\Juno_Light_Driver_PCB\Juno_Light_Driver.PcbDoc
-Date     : 6/21/2019
-Time     : 4:46:13 PM
+PCB File : C:\Users\Public\Documents\Altium\Projects\Juno_Light_Driver\Juno_Light_Driver.PcbDoc
+Date     : 6/23/2019
+Time     : 2:21:00 PM
 
 Processing Rule : Clearance Constraint (Gap=5mil) (All),(All)
 Rule Violations :0
@@ -50,4 +50,4 @@ Rule Violations :0
 
 Violations Detected : 2
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:00
