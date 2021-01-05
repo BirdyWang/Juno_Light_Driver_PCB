@@ -1,9 +1,9 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\Public\Documents\Altium\Projects\Juno_Light_Driver\Juno_Light_Driver.PcbDoc
-Date     : 6/23/2019
-Time     : 2:21:00 PM
+PCB File : C:\Users\Public\Documents\Altium\Projects\Juno\Juno_Light_Driver_PCB\Juno_Light_Driver.PcbDoc
+Date     : 11/24/2020
+Time     : 9:50:15 AM
 
-Processing Rule : Clearance Constraint (Gap=5mil) (All),(All)
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=10mil) (InPolygon),(All)
@@ -24,7 +24,7 @@ Rule Violations :0
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
 Rule Violations :0
 
-Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=10000mil) (All)
 Rule Violations :0
 
 Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
@@ -50,4 +50,4 @@ Rule Violations :0
 
 Violations Detected : 2
 Waived Violations : 0
-Time Elapsed        : 00:00:00
+Time Elapsed        : 00:00:02
